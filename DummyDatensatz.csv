@@ -1,0 +1,17 @@
+ID;Geschlecht;Bier;Chips;Windeln;Kuchen;Kaffee;Milch
+1;M;ja;ja;ja;nein;ja;nein
+2;W;nein;nein;ja;ja;ja;ja
+3;W;nein;ja;nein;nein;nein;ja
+4;M;ja;ja;nein;nein;ja;nein
+5;M;ja;nein;ja;nein;ja;nein
+6;M;ja;ja;nein;nein;nein;nein
+7;M;nein;ja;nein;nein;nein;nein
+8;W;ja;nein;nein;ja;ja;ja
+9;M;ja;ja;ja;nein;ja;nein
+10;W;nein;nein;ja;nein;nein;ja
+11;M;ja;ja;nein;ja;nein;nein
+12;W;nein;ja;ja;nein;ja;nein
+13;W;nein;nein;nein;ja;ja;ja
+14;W;nein;nein;ja;nein;ja;ja
+15;M;nein;ja;nein;ja;nein;nein
+16;M;ja;ja;ja;nein;ja;ja
